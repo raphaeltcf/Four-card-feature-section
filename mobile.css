@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 1000px) {
+
+    .container {
+        top: 0;
+        transform: translate(-50%, 0%);
+    }
+
+    .cards {
+        display: block;
+        width: auto;
+    }
+    
+}
